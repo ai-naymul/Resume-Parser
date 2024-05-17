@@ -1,0 +1,6 @@
+streamlit
+langchain
+pdf2image
+requests
+python-dotenv
+langchain-google-genai

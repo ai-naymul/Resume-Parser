@@ -1,0 +1,50 @@
+\- basic\_info
+\- \[x\] first\_name
+\- \[x\] last\_name
+\- \[x\] full\_name
+\- \[x\] email
+\- \[x\] phone\_number
+\- \[x\] location
+\- \[x\] address
+\- \[x\] city
+\- \[x\] zip code
+\- \[x\] untry
+\- \[x\] websites: \[\]
+\- \[x\] summary\_description
+\- \[x\] current\_title
+\- \[x\] current\_org
+\- \[x\] work\_years
+\- education: \[\]
+\- \[x\] institution
+\- \[x\] location
+\- \[x\] degree
+\- \[x\] start\_date
+\- \[x\] end\_date
+\- \[x\] majors
+\- \[x\] GPA
+\- skills: \[\]
+\- strength\_areas: \[\]
+\- work\_history: \[\]
+\- \[x\] organization
+\- \[x\] location
+\- \[x\] positions
+\- \[x\] title
+\- \[x\] start\_date
+\- \[x\] end\_date
+\- \[x\] responsibilities: \[\]
+\- awards\_honors: \[\]
+\- \[x\] title
+\- \[x\] year
+\- \[x\] organization
+\- certifications: \[\]
+\- \[x\] title
+\- \[x\] year
+\- \[x\] organization
+\- activities: \[\]
+\- references: \[\]
+\- \[x\] name
+\- \[x\] title
+\- \[x\] organization
+\- \[x\] location
+\- \[x\] phone\_number
+\- \[x\] email
